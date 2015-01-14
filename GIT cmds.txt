@@ -1,0 +1,7 @@
+git config --list		: Display current git configuration
+
+git add				: Adds all new files
+
+git add -u			: Updates tracking for files that changed names or were deleted
+
+git add -A			: does both of the previous		
